@@ -1,0 +1,15 @@
+body {
+     background-color: rgb(17, 24, 39);
+     /*rgb(31 41 55)*/
+     color: rgb(207, 146, 31);
+     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.title, .author {
+    text-align: center;
+}
+.title {
+    margin-bottom: 0;
+}
+.author {
+    margin-top: 0;
+}
